@@ -4,3 +4,4 @@ artifacts/
 data/synthetic_draft.csv
 nfl/data_raw/
 nfl/artifacts/
+nfl/data/wr_full.csv
