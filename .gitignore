@@ -2,3 +2,5 @@ __pycache__/
 *.pt
 artifacts/
 data/synthetic_draft.csv
+nfl/data_raw/
+nfl/artifacts/
